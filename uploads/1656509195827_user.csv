@@ -1,0 +1,34 @@
+first_name,last_name,email,join_date,designation,department,user_role,reporting_manager,leave_rules,panelty,status
+Ram,Vipul,ramvipul1209@gmail.com,2020-06-21,,,superAdmin,,,0,active
+Jaideep,Ram,jaideep.r@latitudetechnolabs.com,2022-06-21,Jr React Developer,Reactjs,superAdmin,ramvipul1209@gmail.com,"sick,casual,loss-of-pay",0,active
+Ritesh,kumar,ritesh.k@latitudetechnolabs.com,2022-06-21,sr node developer,Reactjs,superAdmin,ramvipul1209@gmail.com,"sick,casual,loss-of-pay",0,active
+Dileep,Kumar,dileep@yopmail.com,2022-06-21,sr node developer,HR,superAdmin,jaideep.r@latitudetechnolabs.com,"sick,casual,loss-of-pay",2.5,active
+adminjay,Ram,adminjay@yopmail.com,2022-06-21,Jr React Developer,React Js,admin,jaideep.r@latitudetechnolabs.com,"sick,casual,loss-of-pay",2,active
+Hiloni,Barmeda,hiloni@yopmail.com,2022-06-21,Jr Web Developer,Web Designer,employee,adminjay@yopmail.com,"sick,casual,loss-of-pay",54.5,active
+Will,Robinson,will@yopmail.com,2022-06-21,Sr React Developer,Reactjs,admin,ritesh.k@latitudetechnolabs.com,"sick,casual",0,active
+Jonny,Depp,jonny@yopmail.com,2022-06-21,Jr Android Developer,django,employee,will@yopmail.com,"sick,casual,loss-of-pay",14.5,active
+Govind,Kumar,govind.s@latitudetechnolabs.com,2022-06-22,Sr React Developer,Reactjs,superAdmin,will@yopmail.com,"sick,casual,loss-of-pay",0,active
+Dileep,Admin,dileep1@yopmail.com,2022-06-22,Sr React Developer,Android,admin,dileep@yopmail.com,"sick,casual,loss-of-pay",1,active
+Elon,Musk,elon@yopmail.com,2022-06-23,Jr React Developer,Reactjs,employee,will@yopmail.com,"sick,casual",0,active
+admin,rv,ram.v@latitudetechnolabs.com,2022-06-23,Sr React Developer,Reactjs,admin,ramvipul1209@gmail.com,"sick,casual,loss-of-pay",0,active
+Gangadhar,Shastri,gangadhar@yopmail.com,2022-06-23,Jr Web Developer,Reactjs,employee,ram.v@latitudetechnolabs.com,"sick,casual,loss-of-pay",0,active
+Liladhar,Shastri,liladhar@yopmail.com,2022-06-23,Jr Web Developer,Reactjs,employee,ram.v@latitudetechnolabs.com,"sick,casual,loss-of-pay",0,active
+Employee,Dileep,dileep2@yopmail.com,2022-06-23,Jr Web Developer,Kotlin,employee,dileep1@yopmail.com,"casual,loss-of-pay",17,active
+Hardik,Pandya,hardik@yopmail.com,2022-06-23,Jr React Developer,Reactjs,employee,ritesh.k@latitudetechnolabs.com,,0,active
+sddfs,sdfsd,dileep3@yopmail.com,2022-06-27,Jr Android Developer,Android,employee,dileep1@yopmail.com,sick,0,active
+dfsdfsd,dsfdf,sdfsd@yopmail.com,2022-06-27,Sr React Developer,Kotlin,employee,dileep@yopmail.com,,0,active
+Aditya,Gadhvi,aditya1@yopmail.com,2021-08-10,sr node developer,Reactjs,employee,ram.v@latitudetechnolabs.com,"sick,casual,loss-of-pay",0,active
+tractor,test,tractor1@yopmail.com,2021-09-10,sr node developer,Reactjs,employee,ram.v@latitudetechnolabs.com,"sick,casual,loss-of-pay",0,active
+mogli,mogli,mogli1@yopmail.com,2021-09-10,sr node developer,Reactjs,employee,ram.v@latitudetechnolabs.com,"sick,casual,loss-of-pay",0,active
+Ramesh,kumar,ramehs@yopmail.com,2022-06-27,Sr React Developer,Android,employee,dileep1@yopmail.com,"sick,casual,loss-of-pay",0,active
+sadfsd,sdfsd,demo2@yopmail.com,2022-06-27,Jr Web Developer,Android,employee,dileep1@yopmail.com,"sick,casual,loss-of-pay",1.5,inactive
+Romit,Vaghasiya,rom@yopmail.com,2022-06-28,Sr React Developer,Reactjs,superAdmin,ramvipul1209@gmail.com,"sick,casual,loss-of-pay",0,active
+xyz,abc,xyz@yopmail.com,2022-06-29,Jr Web Developer,Reactjs,employee,ritesh.k@latitudetechnolabs.com,"loss-of-pay,probation",0,active
+dhruv,garodiya,dhruvbhai@yopmail.com,2020-06-16,Sr React Developer,Reactjs,employee,ritesh.k@latitudetechnolabs.com,paid,0,active
+John,Cena,john@yopmail.com,2022-06-01,Jr Web Developer,Reactjs,employee,ritesh.k@latitudetechnolabs.com,"loss-of-pay,paid",0,active
+devang,patel,devang@yopmail.com,2022-06-10,Sr React Developer,django,employee,jaideep.r@latitudetechnolabs.com,"loss-of-pay,paid",0,active
+Mukesh,Purohit,mukesh@yopmail.com,2015-06-19,Sr React Developer,Reactjs,superAdmin,ramvipul1209@gmail.com,"loss-of-pay,paid",0,active
+Deval,Singh,deval@yopmail.com,2012-12-12,Sr React Developer,django,admin,jaideep.r@latitudetechnolabs.com,"loss-of-pay,paid",0,active
+ms,dhoni,dhoni@yopmail.com,2021-08-10,Jr React Developer,Android,employee,ramvipul1209@gmail.com,"sick,casual,loss-of-pay,paid",0,active
+hardik,pandya,pandya@yopmail.com,2021-09-10,sr node developer,Reactjs,employee,ramvipul1209@gmail.com,"casual,loss-of-pay",0,active
+virat,kohli,kohli@yopmail.com,2021-09-10,Jr React Developer,Php,employee,ramvipul1209@gmail.com,"sick,casual,loss-of-pay",0,active

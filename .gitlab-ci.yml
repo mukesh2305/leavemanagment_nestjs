@@ -1,0 +1,19 @@
+deploy-job:      
+  stage: deploy  
+  tags:
+    - "leave-management"
+  variables:
+    build_path: "/var/www/html/builds/fmErCkpQ/0/sanjay12345/leave-management/"
+    Target_path: "/var/www/html/leave-management/" 
+  script:
+    - echo "Deploying application..."
+    - cd $build_path
+    - nvm use 16.13.1
+    - npm install
+    - npm run build
+    - rsync -P -av $build_path/* $Target_path/
+    - pm2 restart leave-management
+    - echo "Application successfully deployed."
+    - rm -rf /var/www/html/builds/fmErCkpQ
+  only:
+   - dev

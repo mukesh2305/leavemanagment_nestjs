@@ -1,0 +1,76 @@
+first_name,last_name,email,leave_type,leave_amount,startDateLeaveType,endDateLeaveType,reason,startDate,endDate,status,action_by_status,action_by,approved_by,rejection_reason,createdAt,updatedAt
+Gangadhar,Shastri,gangadhar@yopmail.com,casual,1,full-day,full-day,test,29-07-2022,29-07-2022,pending,pending,,,,2022-07-07,2022-07-07
+Demo,For ,de@yopmail.com,paid,1.5,second-half,full-day,leave,14-07-2022,16-07-2022,rejected,rejected,,Ram Vipul,"test
+",2022-07-07,2022-07-07
+Samanthaa,Prabhuu,ritu@yopmail.com,paid,0.5,first-half,full-day,cxcvb,26-07-2022,26-07-2022,approved,approved,,Ram Vipul,,2022-07-04,2022-07-07
+Samanthaa,Prabhuu,ritu@yopmail.com,paid,0.5,first-half,full-day,hfhg,27-07-2022,27-07-2022,pending,pending,,,,2022-07-04,2022-07-04
+Deval S,Singh,deval@yopmail.com,paid,1,full-day,full-day,sgfsdfg,21-07-2022,21-07-2022,pending,pending,,,,2022-07-01,2022-07-01
+Deval S,Singh,deval@yopmail.com,paid,1,second-half,first-half,gbd,19-07-2022,20-07-2022,pending,pending,,,,2022-07-01,2022-07-01
+Deval S,Singh,deval@yopmail.com,paid,1,second-half,first-half,dfhdf,27-07-2022,28-07-2022,pending,pending,,,,2022-07-01,2022-07-01
+Deval S,Singh,deval@yopmail.com,paid,1,second-half,first-half,sdgsdfhsghdfg,28-07-2022,29-07-2022,pending,pending,,,,2022-07-01,2022-07-01
+Deval S,Singh,deval@yopmail.com,paid,2,second-half,second-half,dag,27-07-2022,29-07-2022,pending,pending,,,,2022-07-01,2022-07-01
+Samanthaa,Prabhuu,ritu@yopmail.com,paid,0.5,second-half,full-day,qwert,20-07-2022,20-07-2022,approved,approved,,Mukesh  Purohit,,2022-07-01,2022-07-02
+Mukesh ,Purohit,mukesh@yopmail.com,paid,0.5,second-half,full-day,sdfsdfsdf,30-06-2022,30-06-2022,approved,approved,,Ritesh kumar,,2022-06-30,2022-06-30
+dileep,kumar,dileep5@yopmail.com,paid,13.5,full-day,first-half,rtrtre,12-07-2022,29-07-2022,pending,approved,,Ritesh kumar,,2022-06-30,2022-06-30
+Deval S,Singh,deval@yopmail.com,paid,1,full-day,full-day,Testing one months,07-07-2022,07-07-2022,approved,approved,,Ritesh kumar,,2022-06-30,2022-06-30
+Deval S,Singh,deval@yopmail.com,paid,2,second-half,second-half,sx,23-07-2022,27-07-2022,pending,pending,,,,2022-06-30,2022-06-30
+Deval S,Singh,deval@yopmail.com,paid,5,full-day,full-day,adsfghd,11-07-2022,15-07-2022,pending,pending,,,,2022-06-30,2022-06-30
+Deval S,Singh,deval@yopmail.com,paid,0.5,second-half,full-day,asfsgsg,13-07-2022,13-07-2022,pending,pending,,,,2022-06-30,2022-06-30
+Mukesh ,Purohit,mukesh@yopmail.com,paid,0.5,second-half,full-day,fdsf,14-07-2022,14-07-2022,pending,pending,,,,2022-06-29,2022-06-29
+John,Cena,john@yopmail.com,paid,0.5,first-half,full-day,sdfsdafdsafsg,06-07-2022,06-07-2022,pending,pending,,,,2022-06-29,2022-06-29
+Mukesh ,Purohit,mukesh@yopmail.com,paid,1,full-day,full-day,qwert,14-07-2022,14-07-2022,pending,pending,,,,2022-06-29,2022-06-29
+Mukesh ,Purohit,mukesh@yopmail.com,loss-of-pay,11.5,second-half,full-day,Marriage,29-06-2022,14-07-2022,approved,approved,,Ram Vipul,,2022-06-29,2022-06-29
+devang,patel,devang@yopmail.com,paid,2.5,second-half,full-day,qwerty,11-07-2022,13-07-2022,pending,pending,,,,2022-06-29,2022-06-29
+Deval S,Singh,deval@yopmail.com,loss-of-pay,13,full-day,full-day,Marriage,29-06-2022,15-07-2022,approved,approved,jay patel,Mukesh  Purohit,,2022-06-29,2022-06-30
+Jonny,Depp,jonny@yopmail.com,sick,0.5,first-half,full-day,sgsd,28-06-2022,28-06-2022,pending,pending,,,,2022-06-28,2022-06-28
+admin,rv,ram.v@latitudetechnolabs.com,casual,3.5,second-half,full-day,terezs,21-07-2022,26-07-2022,pending,pending,,,,2022-06-28,2022-06-28
+admin,rv,ram.v@latitudetechnolabs.com,casual,2,full-day,full-day,fsewrw,13-07-2022,14-07-2022,pending,pending,,,,2022-06-28,2022-06-28
+admin,rv,ram.v@latitudetechnolabs.com,sick,0.5,first-half,full-day,fsdfs,28-06-2022,28-06-2022,pending,pending,,,,2022-06-28,2022-06-28
+admin,rv,ram.v@latitudetechnolabs.com,sick,0.5,second-half,full-day,sdvsdvs,29-06-2022,29-06-2022,pending,pending,,,,2022-06-28,2022-06-28
+Hiloni,Barmeda,hiloni@yopmail.com,sick,0.5,second-half,full-day,dvxcv,28-06-2022,28-06-2022,pending,pending,,,,2022-06-28,2022-06-28
+Dileep,Kumar,dileep@yopmail.com,loss-of-pay,0.5,full-day,second-half,dfsfsd,27-06-2022,27-06-2022,pending,pending,,,,2022-06-27,2022-06-27
+Dileep,Kumar,dileep@yopmail.com,loss-of-pay,0.5,second-half,full-day,cvcvbcv,27-06-2022,27-06-2022,approved,approved,,Jaideep Ram,,2022-06-27,2022-06-27
+Dileep,Kumar,dileep@yopmail.com,loss-of-pay,1.5,second-half,full-day,hfghfghf,27-06-2022,28-06-2022,pending,pending,,,,2022-06-27,2022-06-27
+Dileep,Kumar,dileep@yopmail.com,sick,1,second-half,second-half,hgfhghgfhf,27-06-2022,28-06-2022,pending,approved,,Dileep Kumar,,2022-06-27,2022-06-27
+Jaideep,Ram,jaideep.r@latitudetechnolabs.com,sick,1,full-day,full-day,789,08-06-2022,08-06-2022,rejected,rejected,,Ritesh kumar,rfr6r,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,full-day,full-day,Hhdhdjd,30-06-2022,30-06-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,first-half,second-half,Ggh,28-06-2022,29-06-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,casual,6.5,full-day,first-half,Hjdjd,14-07-2022,22-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,5,first-half,first-half,asdsad,27-06-2022,04-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,first-half,second-half,asdas,05-07-2022,06-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1.5,first-half,full-day,asdsa,05-07-2022,06-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,second-half,first-half,asdasd,06-07-2022,07-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,0.5,second-half,full-day,ghfgh,13-07-2022,13-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,full-day,full-day,jghjghj,12-07-2022,12-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,full-day,full-day,dfdsfsdf,15-07-2022,15-07-2022,pending,pending,,,,2022-06-27,2022-06-27
+sadfsd,sdfsd,demo2@yopmail.com,sick,1,first-half,first-half,fdgfffff,28-06-2022,29-06-2022,pending,rejected,Dileep Admin,,,2022-06-27,2022-06-27
+sadfsd,sdfsd,demo2@yopmail.com,casual,9,first-half,second-half,fhghgf,04-07-2022,15-07-2022,approved,approved,,Dileep Kumar,,2022-06-27,2022-06-27
+sadfsd,sdfsd,demo2@yopmail.com,sick,2,first-half,first-half,dfgdfgfd,19-07-2022,21-07-2022,rejected,rejected,,Ritesh kumar,hgfdfgh,2022-06-27,2022-06-27
+sadfsd,sdfsd,demo2@yopmail.com,loss-of-pay,1.5,full-day,first-half,gfdgfdg,20-07-2022,21-07-2022,approved,approved,,Dileep Kumar,,2022-06-27,2022-06-27
+Hiloni,Barmeda,hiloni@yopmail.com,sick,4.5,first-half,full-day,cvxcvx,18-07-2022,22-07-2022,approved,approved,,Ram Vipul,,2022-06-27,2022-06-27
+Hiloni,Barmeda,hiloni@yopmail.com,casual,0.5,second-half,full-day,fdgfg,07-07-2022,07-07-2022,approved,rejected,adminjay Ram,Ram Vipul,,2022-06-27,2022-06-27
+sadfsd,sdfsd,demo2@yopmail.com,casual,1,full-day,full-day,friday leav,22-07-2022,22-07-2022,pending,rejected,Dileep Admin,Dileep Kumar,,2022-06-27,2022-06-27
+Jaideep,Ram,jaideep.r@latitudetechnolabs.com,casual,0.5,second-half,full-day,vsdfsd,19-07-2022,19-07-2022,approved,approved,,Jaideep Ram,,2022-06-27,2022-06-27
+adminjay,Ram,adminjay@yopmail.com,casual,4.5,second-half,full-day,dfsdfs,11-07-2022,15-07-2022,approved,approved,,Jaideep Ram,,2022-06-27,2022-06-27
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,2.5,full-day,second-half,need leave,27-06-2022,29-06-2022,rejected,rejected,Dileep Admin,Jaideep Ram,xcbx,2022-06-27,2022-06-27
+Jaideep,Ram,jaideep.r@latitudetechnolabs.com,sick,0.5,second-half,full-day,ewrw,28-06-2022,28-06-2022,rejected,approved,,Jaideep Ram,gdfgfd,2022-06-27,2022-06-27
+adminjay,Ram,adminjay@yopmail.com,casual,1,full-day,full-day,231,14-07-2022,14-07-2022,rejected,rejected,,Ritesh kumar,asd,2022-06-24,2022-06-24
+Will,Robinson,will@yopmail.com,casual,1,full-day,full-day,ffg,01-07-2022,01-07-2022,approved,approved,,Dileep Kumar,,2022-06-24,2022-06-25
+Will,Robinson,will@yopmail.com,casual,1,full-day,full-day,cas,07-07-2022,07-07-2022,approved,approved,,Jaideep Ram,,2022-06-24,2022-06-27
+Hiloni,Barmeda,hiloni@yopmail.com,casual,1,full-day,full-day,c,06-07-2022,06-07-2022,rejected,rejected,,Jaideep Ram,dsfsd,2022-06-24,2022-06-24
+Hiloni,Barmeda,hiloni@yopmail.com,casual,1,full-day,full-day,sdfg,19-07-2022,19-07-2022,rejected,rejected,,Jaideep Ram,efwe,2022-06-24,2022-06-24
+admin,rv,ram.v@latitudetechnolabs.com,sick,0.5,first-half,full-day,sick today,23-06-2022,23-06-2022,pending,pending,,,,2022-06-23,2022-06-23
+Will,Robinson,will@yopmail.com,casual,2.5,full-day,first-half,sdcda,04-07-2022,06-07-2022,rejected,rejected,,Ritesh kumar,No need,2022-06-23,2022-06-23
+Employee,Dileep,dileep2@yopmail.com,loss-of-pay,1,full-day,full-day,fdgdf,30-06-2022,30-06-2022,approved,approved,Dileep Admin,Dileep Kumar,,2022-06-23,2022-06-23
+Employee,Dileep,dileep2@yopmail.com,casual,1,full-day,full-day,fhgh,22-07-2022,22-07-2022,approved,rejected,Dileep Admin,Dileep Kumar,,2022-06-23,2022-06-23
+Hiloni,Barmeda,hiloni@yopmail.com,loss-of-pay,15,full-day,full-day,Leave...................,24-06-2022,14-07-2022,pending,pending,,,,2022-06-23,2022-06-23
+Jaideep,Ram,jaideep.r@latitudetechnolabs.com,casual,0.5,full-day,second-half,fsdf,01-07-2022,01-07-2022,rejected,rejected,,Ritesh kumar,"dfvb
+",2022-06-23,2022-06-27
+adminjay,Ram,adminjay@yopmail.com,loss-of-pay,1,full-day,full-day,123,24-06-2022,24-06-2022,pending,pending,,,,2022-06-23,2022-06-23
+adminjay,Ram,adminjay@yopmail.com,loss-of-pay,1,full-day,full-day,qwe,24-06-2022,24-06-2022,pending,pending,,,,2022-06-23,2022-06-23
+Will,Robinson,will@yopmail.com,sick,0.5,second-half,full-day,sick,24-06-2022,24-06-2022,approved,approved,,Ritesh kumar,,2022-06-22,2022-06-22
+Will,Robinson,will@yopmail.com,sick,0.5,second-half,full-day,kim john,27-06-2022,27-06-2022,rejected,approved,,Ritesh kumar,only loss of pay,2022-06-22,2022-06-22
+Dileep,Admin,dileep1@yopmail.com,loss-of-pay,1,full-day,full-day,ddsdfdfs dsf sdf sd sdfsdfsd sdfs dfdsfsd sdfsdfsdf sdfsdfsd sdfsdf sdfsd sdf sdsdf sdfsdfsd sdfsdf sdfsdf sdfsd sdf sdfsdfsdfsd sdfsdfsd sdfsd sdf,24-06-2022,24-06-2022,approved,approved,,Dileep Kumar,,2022-06-22,2022-06-22
+Jonny,Depp,jonny@yopmail.com,sick,0.5,first-half,full-day,sick,23-06-2022,23-06-2022,pending,rejected,Will Robinson,,,2022-06-22,2022-06-23
+Hiloni,Barmeda,hiloni@yopmail.com,loss-of-pay,11,full-day,full-day,Testing....,01-07-2022,15-07-2022,pending,pending,,,,2022-06-22,2022-06-22
+Hiloni,Barmeda,hiloni@yopmail.com,sick,1,full-day,full-day,Sick.......,07-06-2022,07-06-2022,approved,pending,,Jaideep Ram,,2022-06-21,2022-06-21
